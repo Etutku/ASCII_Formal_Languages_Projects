@@ -12,6 +12,19 @@ If we consider similarity with formal languages, the project demonstrates a conn
 
 - **Easy Integration:** With a straightforward setup and intuitive interface, users can quickly run the project locally and experience the beauty of ASCII  videos in their **web browser**.
 
+  ## Running the Program
+1. **Download the Repository:**
+* Download the project repository containing files like [sketch.js](), [style.css], and [index.html].
+3. **Open in a Code Editor:**
+* Use a [code editor](https://editor.p5js.org/etutkugayda/full/STZ9tNBj1) to open the project.
+5. **Install a Local Server:**
+* If needed, set up a local server. Use extensions like "Live Server" in Visual Studio Code.
+7. **Run the Program:**
+* Open sketch.html in your browser to start the program.
+* Grant camera access when prompted.
+9. **Interact and Customize:**
+*Experiment with different character sets and parameters in real-time.
+
 ## Explaining Code and Steps
 Project is mainly done with JavaScript and p5.js,  to transform ordinary video footage into mesmerizing ASCII art in real-time. In the repository there are 3 main files, one of them is sketch.js (main file) and the other one is style.css for design the project. Analyzing the sketch.js:
 
@@ -29,5 +42,3 @@ Project is mainly done with JavaScript and p5.js,  to transform ordinary video f
   const charIndex = floor(map(avg, 0, 255, 0, len));
   const c = density.charAt(charIndex);
 
-## Running the Program
-For running the program, sketch.js has to be compiled with the browser (it can be Safari, Chrome etc.) and it will need permission from the camera. Then, with the camera there will be visualization with RGB pixels, and on the other side of the program ASCII character conversion will appear. 
