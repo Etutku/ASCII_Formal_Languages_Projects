@@ -5,16 +5,16 @@
 
 | No. | Table of Contents                                                                   |
 | --- | ----------------------------------------------------------------------- |
-| 1   | [**ASCII Video Converter**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/README.md)   |
-| 2   | [**Pascal Compiler in Pyhton**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
+| 1   | [**ASCII Video Converter**](https://github.com/Etutku/Formal_Languages_Projects/tree/main/ASCII%20Video)   |
+| 2   | [**Pascal Compiler in Pyhton**](https://github.com/Etutku/Formal_Languages_Projects/tree/main/Pascal%20Compiler%20in%20Pyhton) |
 
 
 # Projects
-### Project 1: [ASCII Video Converter](https://github.com/xkyleann/Java_Portfolio/tree/main/OOP_Physics)
+### Project 1: [ASCII Video Converter](https://github.com/Etutku/Formal_Languages_Projects/tree/main/ASCII%20Video)
 
 **Description**: The ASCII Code Video project is an innovative exploration at the intersection of technology and visulazation, leveraging the usage of p5.js to transform ordinary video footage into ASCII in real-time. Basically, it turns video (pixel) format into binary (01) or ASCII characters. 
 
-### Project 2: [Pascal Compiler in Pyhton](https://github.com/xkyleann/Java_Portfolio/blob/main/Simple_Library.java)
+### Project 2: [Pascal Compiler in Pyhton](https://github.com/Etutku/Formal_Languages_Projects/tree/main/Pascal%20Compiler%20in%20Pyhton)
 
 **Description**: The compiler encompasses a lexer and a basic recursive descent parser. The provided code acts as an initial framework for lexical analysis and parsing of Pascal expressions.
 
