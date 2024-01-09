@@ -18,9 +18,9 @@ If we consider similarity with formal languages, the project demonstrates a conn
 3. **Open in a Code Editor:**
 * Use a [code editor](https://editor.p5js.org/etutkugayda/full/STZ9tNBj1) to open the project.
 5. **Install a Local Server:**
-* If needed, set up a local server. Use extensions like "Live Server" in Visual Studio Code.
+* If needed, set up a local server. Use extensions like "Live Server" in [Visual Studio Code](https://code.visualstudio.com/).
 7. **Run the Program:**
-* Open sketch.html in your browser to start the program.
+* Open [sketch.js](https://github.com/Etutku/Formal_Languages_Projects/blob/main/ASCII%20Video/sketch.js) in your browser to start the program.
 * Grant camera access when prompted.
 9. **Interact and Customize:**
 *Experiment with different character sets and parameters in real-time.
