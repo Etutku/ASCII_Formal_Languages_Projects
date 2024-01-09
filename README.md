@@ -28,7 +28,7 @@
   <summary> The ASCII Code Video project is an innovative exploration at the intersection of technology and art, leveraging the power of p5.js to transform ordinary video footage into ASCII in real-time. Basically, it turns video (pixel) format into binary (01) or ASCII characters.<br></summary>
   <summary> If we consider similarity with formal languages, the project demonstrates a connection through its underlying principles of language representation and transformation. While the project itself may not involve a traditional compiler in the sense of translating high-level programming languages into machine code, it exhibits certain similarities and connections. <br></summary>
     <summary> Similarity: In formal languages and compilers, there is a focus on the representation of information and the transformation of one form of language into another. ASCII Code Video represents video frames through the language of ASCII characters, showcasing a transformation from <b>pixel-based images</b> to <b>character-based representation</b>. As in the summary we can say that it converts pixel(s) to characters. <br></summary>
- <summary> <a href= "https://github.com/xkyleann/Java_Portfolio/files/11939623/oo7-2.pdf"> Documentation 5</a> </summary>
+ <summary> <a href= ""> Documentation for ASCII Video Converter </a> </summary>
 </details>
 
 <details>
@@ -38,5 +38,5 @@ Pascal is a formal language characterized by a defined syntax and semantics; the
 If we consider the strings, in the context of the compiler, strings refer to sequences of characters constituting the Pascal source code. The lexer processes these strings and breaks them down into meaningful tokens. 
 The alphabet is the set of symbols from which strings are formed. In this project, the alphabet includes characters such as digits (0-9), operators (+), and whitespace.<br>
  </summary>
- <summary> <a href= "https://github.com/xkyleann/Java_Portfolio/files/11939623/oo7-2.pdf"> Documentation 5</a> </summary>
+ <summary> <a href= "https://github.com/xkyleann/Java_Portfolio/files/11939623/oo7-2.pdf"> Documentation for Pascal Compiler in Pyhton</a> </summary>
 </details>
