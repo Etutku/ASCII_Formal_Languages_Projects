@@ -17,4 +17,4 @@ Replace **your-username** with your GitHub username.
 * Start your local server. If you are using Visual Studio Code, you can use the Live Server extension.
 * I advice to use [p5.js](https://editor.p5js.org/etutkugayda/sketches/STZ9tNBj1) editor.
 * Open the index.html file in your web browser.
-* Experience the **magic of ASCII Code Videos**! The preview page should display a real-time ASCII art representation of the video captured from your webcam.
+* Experience the  **ASCII Code Videos**! The preview page should display a real-time ASCII art representation of the video captured from your webcam.
