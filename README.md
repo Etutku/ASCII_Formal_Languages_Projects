@@ -6,14 +6,10 @@
 | No. | Table of Contents                                                                   |
 | --- | ----------------------------------------------------------------------- |
 | 1   | [**ASCII Video Converter**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/README.md)   |
-| 2   | [**ASCII Video Converter Overview**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
 | 2   | [**Pascal Compiler in Pyhton**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
-| 2   | [**Pascal Compiler in Pyhton Overview**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
-
 
 
 # Projects
-
 ### Project 1: [ASCII Video Converter](https://github.com/xkyleann/Java_Portfolio/tree/main/OOP_Physics)
 
 **Description**: The ASCII Code Video project is an innovative exploration at the intersection of technology and visulazation, leveraging the usage of p5.js to transform ordinary video footage into ASCII in real-time. Basically, it turns video (pixel) format into binary (01) or ASCII characters. 
