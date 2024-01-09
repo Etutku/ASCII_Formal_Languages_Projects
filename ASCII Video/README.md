@@ -14,7 +14,7 @@ If we consider similarity with formal languages, the project demonstrates a conn
 
   ## Running the Program
 1. **Download the Repository:**
-* Download the project repository containing files like [sketch.js](), [style.css], and [index.html].
+* Download the project repository containing files like [sketch.js](https://github.com/Etutku/Formal_Languages_Projects/blob/main/ASCII%20Video/sketch.js), [style.css](https://github.com/Etutku/Formal_Languages_Projects/blob/main/ASCII%20Video/style.css), and [index.html](https://github.com/Etutku/Formal_Languages_Projects/blob/main/ASCII%20Video/index.html).
 3. **Open in a Code Editor:**
 * Use a [code editor](https://editor.p5js.org/etutkugayda/full/STZ9tNBj1) to open the project.
 5. **Install a Local Server:**
