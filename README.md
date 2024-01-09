@@ -1,28 +1,42 @@
-# ASCII Code Video
+# Formal Languages and Compilers Final Project | AGH 
+*  By: Edibe Tutku Gayda
+*  Project Documentation:
 
-The **ASCII Code Video** project is an innovative exploration at the intersection of technology and art, leveraging the power of `p5.js` to transform ordinary video footage into mesmerizing ASCII art in real-time.
 
-## Overview
-*ASCII Code Video* takes the concept of video processing to a creative level by representing each frame of a video as a dynamic arrangement of ASCII characters. The result is a visually striking and unique representation of video content, turning pixels into characters and colors into shades.
-
-## Key Features
-- **Real-time ASCII Art:** Witness the magic as the `p5.js` sketch processes video frames on the fly, creating a captivating ASCII representation that evolves with the video content.
-
-- **Customization:** The project is designed to be customizable. Users can experiment with different character sets, fonts, and video processing parameters to achieve diverse and artistic results.
-
-- **Easy Integration:** With a straightforward setup and intuitive interface, users can quickly run the project locally and experience the beauty of ASCII art videos in their web browser.
-
-## Getting Started
-To run the ASCII Code Video project locally, follow the simple installation steps outlined in the [Getting Started](https://github.com/xkyleann/ASCII_Video/blob/main/GettingStarted.md) section of the [README.md](README.md) file.
-
-## Demo
-Check out the mesmerizing ASCII Code Video in action! [Demo Video](https://github.com/xkyleann/ASCII_Video/assets/128597547/f672e65a-30e5-4642-8c6a-95f42d9ce9ef)
+| No. | Table of Contents                                                                   |
+| --- | ----------------------------------------------------------------------- |
+| 1   | [**ASCII Video Converter**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/README.md)   |
+| 2   | [**ASCII Video Converter Overview**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
+| 2   | [**Pascal Compiler in Pyhton**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
+| 2   | [**Pascal Compiler in Pyhton Overview**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
 
 
 
+# Projects
 
+### Project 1: [ASCII Video Converter](https://github.com/xkyleann/Java_Portfolio/tree/main/OOP_Physics)
 
-## Customization
-The creative possibilities are endless. Feel free to explore and customize the project to suit your preferences. Whether you want to use a specific font, experiment with unique character sets, or adjust the video processing settings, the project provides a canvas for artistic expression.
+**Description**: The ASCII Code Video project is an innovative exploration at the intersection of technology and visulazation, leveraging the usage of p5.js to transform ordinary video footage into ASCII in real-time. Basically, it turns video (pixel) format into binary (01) or ASCII characters. 
 
+### Project 2: [Pascal Compiler in Pyhton](https://github.com/xkyleann/Java_Portfolio/blob/main/Simple_Library.java)
 
+**Description**: The compiler encompasses a lexer and a basic recursive descent parser. The provided code acts as an initial framework for lexical analysis and parsing of Pascal expressions.
+
+## Summary of the Projects
+<details>
+<summary>Project 1: ASCII Video Converter</summary>
+  <summary> The ASCII Code Video project is an innovative exploration at the intersection of technology and art, leveraging the power of p5.js to transform ordinary video footage into ASCII in real-time. Basically, it turns video (pixel) format into binary (01) or ASCII characters.<br></summary>
+  <summary> If we consider similarity with formal languages, the project demonstrates a connection through its underlying principles of language representation and transformation. While the project itself may not involve a traditional compiler in the sense of translating high-level programming languages into machine code, it exhibits certain similarities and connections. <br></summary>
+    <summary> Similarity: In formal languages and compilers, there is a focus on the representation of information and the transformation of one form of language into another. ASCII Code Video represents video frames through the language of ASCII characters, showcasing a transformation from <b>pixel-based images</b> to <b>character-based representation</b>. As in the summary we can say that it converts pixel(s) to characters. <br></summary>
+ <summary> <a href= "https://github.com/xkyleann/Java_Portfolio/files/11939623/oo7-2.pdf"> Documentation 5</a> </summary>
+</details>
+
+<details>
+<summary> Project 2: Pascal Compiler in Pyhton </summary>
+  <summary> The objective of this project is to develop a simple Pascal compiler in Python. The compiler encompasses a lexer and a basic recursive descent parser. The provided code acts as an initial framework for lexical analysis and parsing of Pascal expressions.
+Pascal is a formal language characterized by a defined syntax and semantics; the lexer and parser interpret Pascal code according to its grammar rules. Grammar defines the syntax and structure of a language. The pascal language has a grammar that specifies how valid Pascal programs are structured. The lexer and parser involve the rules of the Pascal grammar to recognize and interpret valid expressions.
+If we consider the strings, in the context of the compiler, strings refer to sequences of characters constituting the Pascal source code. The lexer processes these strings and breaks them down into meaningful tokens. 
+The alphabet is the set of symbols from which strings are formed. In this project, the alphabet includes characters such as digits (0-9), operators (+), and whitespace.<br>
+ </summary>
+ <summary> <a href= "https://github.com/xkyleann/Java_Portfolio/files/11939623/oo7-2.pdf"> Documentation 5</a> </summary>
+</details>
